@@ -6,6 +6,6 @@ uv sync
 
 uv run jupyter notebook
 
-
-open http://localhost:8888/tree?token=<token-id>
 ```
+
+[Jupyter Notebook]([https://link-url-here.org](http://localhost:8888/tree?token=<token-id>))
